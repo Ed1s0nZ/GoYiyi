@@ -5,4 +5,4 @@
 2. 将加密过后的shellcode 放入文件内存加载shellcode的main.go中;
 3. 用-ldflags="-H windowsgui" 打包内存加载shellcode。
 
-(windows defender,360依旧能过;但是目前火绒已经不免杀了，但是编译时消除Go的编译特征还能继续过火绒。)
+(windows defender,360依旧能过;但是目前火绒已经不免杀了，编译时消除Go的编译特征还能继续过火绒。)
