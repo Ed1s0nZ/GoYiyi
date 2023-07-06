@@ -12,3 +12,7 @@
 3. 用-ldflags="-H windowsgui" 打包内存加载shellcode(或者内存加载shellcode2、反虚拟机)。
 
 (用"内存加载shellcode"打包的exe不能过火绒; 用"内存加载shellcode2"打包的exe过火绒、360和Windows Defender等)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ed1s0nZ/GoYiyi&type=Timeline)](https://star-history.com/#Ed1s0nZ/GoYiyi&Timeline)
